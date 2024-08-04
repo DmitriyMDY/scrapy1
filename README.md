@@ -1,2 +1,3 @@
 # scrapy
  
+pip show scrapy
